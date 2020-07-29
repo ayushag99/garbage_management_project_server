@@ -29,5 +29,5 @@ In order to test send a **```GET```**  request to **```localhost:8000/test```**
 
 ## References
 
-Commit Message Style Reference:  [Here](http://udacity.github.io/git-styleguide/#:~:text=The Subject,change%3B not changed or changes.)
+Commit Message Style Reference:  [Here](http://udacity.github.io/git-styleguide/)
 
